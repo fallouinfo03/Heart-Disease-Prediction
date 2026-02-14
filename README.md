@@ -22,6 +22,6 @@ Le projet exploite le dataset **Heart Disease UCI**. Il contient des données av
 * `heart_disease_uci.csv` : Les données.
 
 ##  Auteurs
-* **Wissal Akkaoui**
 * **Serigne Fallou Mbacke**
+* **Wissal Akkaoui**
 * **Ahossan Marc Cedrick Tanoh**
